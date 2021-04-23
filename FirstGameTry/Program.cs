@@ -10,6 +10,7 @@ namespace FirstGameTry
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
