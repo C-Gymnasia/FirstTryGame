@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FirstGameTry.Units
 {
-    class MainUnitClass
+    public class MainUnitClass
     {
         public int HP { get; set; }
         public string Name { get; set; }
