@@ -1,0 +1,7 @@
+C:\Users\Некит\source\repos\FirstGameTry\FirstGameTry\obj\Debug\FirstGameTry.csprojAssemblyReference.cache
+C:\Users\Некит\source\repos\FirstGameTry\FirstGameTry\obj\Debug\FirstGameTry.csproj.CoreCompileInputs.cache
+C:\Users\Некит\source\repos\FirstGameTry\FirstGameTry\bin\Debug\FirstGameTry.exe.config
+C:\Users\Некит\source\repos\FirstGameTry\FirstGameTry\bin\Debug\FirstGameTry.exe
+C:\Users\Некит\source\repos\FirstGameTry\FirstGameTry\bin\Debug\FirstGameTry.pdb
+C:\Users\Некит\source\repos\FirstGameTry\FirstGameTry\obj\Debug\FirstGameTry.exe
+C:\Users\Некит\source\repos\FirstGameTry\FirstGameTry\obj\Debug\FirstGameTry.pdb

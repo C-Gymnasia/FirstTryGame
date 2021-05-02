@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace FirstGameTry.Units
 {
-    public class MainUnitClass
+    public abstract class MainUnitClass
     {
-        public int HP { get; set; }
-        public string Name { get; set; }
-        public int Damage { get; set; }
-        public int Cost { get; set; }
-        public int RadiusAttack { get; set; }
+        public abstract int HP { get; set; }
+        public abstract string Name { get; set; }
+        public abstract int Damage { get; set; }
+        public abstract int Cost { get; set; }
+        public abstract int RadiusAttack { get; set; }
+        public abstract char ItemView { get; set; }
     }
 }
